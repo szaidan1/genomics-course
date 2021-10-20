@@ -1,2 +1,2 @@
 # genomics-course
-print('Hi Im Sarah')
+Hi I am Sarah
